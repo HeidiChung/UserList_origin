@@ -10,5 +10,5 @@ text-align: center;
 }
 
 #data-panel .card:hover {
- box-shadow: 5px 5px 7px 2px rgb(107, 117, 120);
+ box-shadow: 5px 5px 7px 2px lightblue
 }
